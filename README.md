@@ -2,7 +2,7 @@ Here's a description you can use for your README section on GitHub to describe t
 
 ---
 
-# Mushroom Classification and Clustering Web App
+# Machine Learning Web App
 
 This web application, built using **Streamlit**, allows users to apply both **Supervised Learning** and **Unsupervised Learning** algorithms on a dataset. It provides an interactive interface where users can upload a dataset (like the popular **Mushrooms Dataset**) to either classify mushrooms as edible or poisonous using machine learning models, or perform clustering to uncover hidden patterns. The app supports multiple algorithms with customizable hyperparameters for model training and evaluation.
 
